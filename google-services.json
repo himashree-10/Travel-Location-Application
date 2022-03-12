@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718171852831",
+    "project_id": "travelguide-ce37a",
+    "storage_bucket": "travelguide-ce37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718171852831:android:cf89238061dc7b14c1852a",
+        "android_client_info": {
+          "package_name": "com.example.csc230_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718171852831-6v1qm9e006kvb97nalv1dqmp2d57jq7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csc230_project",
+            "certificate_hash": "b5590cf943f3d5bbdc9ad2fdf6f3771c28028bb9"
+          }
+        },
+        {
+          "client_id": "718171852831-17jpqhrgk25m6rcfgfqriacunh16526o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsR2HlvPiedpUWJ2HDdFCNqWRVIYOHfrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718171852831-17jpqhrgk25m6rcfgfqriacunh16526o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
